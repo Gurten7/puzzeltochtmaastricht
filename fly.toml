@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for puzzeltochtmaastricht on 2025-04-04T21:21:25Z
+# fly.toml app configuration file generated for puzzeltochtmaastricht-pushserver-maastricht on 2025-04-05T07:40:23Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'puzzeltochtmaastricht'
+app = 'puzzeltochtmaastricht-pushserver-maastricht'
 primary_region = 'ams'
 
 [build]
